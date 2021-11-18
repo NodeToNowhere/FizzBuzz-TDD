@@ -1,4 +1,4 @@
-def fizz(number):
+def fizz_buzz(number):
     if number % 15 == 0:
         return "FizzBuzz"
     elif number % 5 == 0:
